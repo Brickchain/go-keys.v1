@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	keys "github.com/Brickchain/go-keys.v2"
+	keys "github.com/Brickchain/go-keys.v1"
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/sqlite"
 )
