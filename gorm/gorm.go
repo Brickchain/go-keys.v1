@@ -1,7 +1,7 @@
 package gorm
 
 import (
-	keys "github.com/Brickchain/go-keys.v1"
+	keys "github.com/Brickchain/go-keys.v2"
 	"github.com/jinzhu/gorm"
 )
 

@@ -5,7 +5,7 @@ import (
 	"crypto/rsa"
 	"testing"
 
-	"github.com/Brickchain/go-crypto.v1"
+	"github.com/Brickchain/go-crypto.v2"
 	jose "gopkg.in/square/go-jose.v1"
 )
 
